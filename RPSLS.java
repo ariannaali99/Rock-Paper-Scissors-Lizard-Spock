@@ -1,6 +1,5 @@
 /* 
    Arianna Ali
-   U53299405
    This program allows the user to play rock, paper, scissors, lizard spock as many times as they wish.
 */
 
